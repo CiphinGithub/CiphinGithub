@@ -1,7 +1,7 @@
 ### Halloooo 👋
 
 - 🔭 I’m currently working on other projects
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Bug Bounty
 - 👯 I’m currently looking to collaborate with my friends
 - 🤔 I’m looking for help with Python
 - 😄 Pronouns: He/It
